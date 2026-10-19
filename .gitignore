@@ -1,0 +1,25 @@
+# 语料全文与清洗产物（第三方著作权，不可再分发）
+data/
+*.jsonl
+!dataset/*.json
+!eval/results/*.json
+corpus_raw/
+corpus_dedup/
+
+# 模型权重与合并模型
+model/
+models/
+*.safetensors
+*.bin
+*.pt
+*.gguf
+adapter*/
+merged/
+checkpoint*/
+
+# 生成物与临时
+__pycache__/
+*.pyc
+.venv/
+*.log
+tmp/

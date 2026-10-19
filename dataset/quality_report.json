@@ -1,0 +1,59 @@
+{
+  "n_train": 1289,
+  "n_val": 68,
+  "n_total": 1357,
+  "exact_duplicates": 0,
+  "dup_assistant_lines": 0,
+  "sim_pairs": 0,
+  "sim_ratio": 0.0,
+  "sim_threshold": 0.9,
+  "assistant_tokens": {
+    "min": 2,
+    "p50": 27,
+    "p90": 45,
+    "max": 88,
+    "mean": 28.9
+  },
+  "user_tokens": {
+    "min": 2,
+    "p50": 39,
+    "p90": 83,
+    "max": 171,
+    "mean": 42.1
+  },
+  "variant": {
+    "scene_dialogue": 768,
+    "bare_action": 215,
+    "bare_line": 234,
+    "scene_action": 140
+  },
+  "kind": {
+    "dialogue": 1272,
+    "voice": 85
+  },
+  "channel": {
+    "mission": 1192,
+    "sms": 56,
+    "choice": 24,
+    "voice": 85
+  },
+  "region": {
+    "仙舟「罗浮」": 309,
+    "星穹列车": 108,
+    "雅利洛-Ⅵ": 241,
+    "二相乐园": 181,
+    "匹诺康尼": 216,
+    "空间站「黑塔」": 46,
+    "翁法罗斯": 94,
+    "": 85,
+    "空间站「黑塔」、星穹列车": 13,
+    "雅利洛-Ⅵ-磐岩镇": 32,
+    "空间站「黑塔」-主控舱段": 9,
+    "雅利洛-Ⅵ、星穹列车": 8,
+    "千星城": 15
+  },
+  "missions": 207,
+  "leak_overlap": 0,
+  "fails": [],
+  "warns": []
+}

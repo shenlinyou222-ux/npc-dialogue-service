@@ -1,0 +1,644 @@
+[
+  {
+    "keys": [
+      "丰饶",
+      "「丰饶」"
+    ],
+    "content": "由星神药师执掌的命途，代表生命与丰饶。仙舟人与药王秘传与此相关。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "丰饶"
+  },
+  {
+    "keys": [
+      "同谐",
+      "「同谐」"
+    ],
+    "content": "由星神希佩执掌的命途，代表和谐与共鸣。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "同谐"
+  },
+  {
+    "keys": [
+      "存护",
+      "「存护」"
+    ],
+    "content": "由星神克里珀执掌的命途，代表守护与庇护。贝洛伯格由克里珀的力量庇护。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "存护"
+  },
+  {
+    "keys": [
+      "巡猎",
+      "「巡猎」"
+    ],
+    "content": "由星神岚执掌的命途，代表追猎与复仇。仙舟联盟沿此命途。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "巡猎"
+  },
+  {
+    "keys": [
+      "开拓",
+      "「开拓」"
+    ],
+    "content": "星穹列车所沿的命途，代表探索未知、开拓世界。列车成员因此被称为「无名客」。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "开拓"
+  },
+  {
+    "keys": [
+      "智识",
+      "「智识」"
+    ],
+    "content": "由星神博识尊执掌的命途，代表知识与计算。天才俱乐部成员多沿此命途。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "智识"
+  },
+  {
+    "keys": [
+      "欢愉",
+      "「欢愉」"
+    ],
+    "content": "由星神阿哈执掌的命途，代表欢乐与狂欢。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "欢愉"
+  },
+  {
+    "keys": [
+      "毁灭",
+      "「毁灭」"
+    ],
+    "content": "由星神纳努克执掌的命途，代表毁灭与终焉。星核是其播撒的种子。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "毁灭"
+  },
+  {
+    "keys": [
+      "虚无",
+      "「虚无」"
+    ],
+    "content": "由星神IX执掌的命途，代表虚无与存在意义的否定。",
+    "type": "命途",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "虚无"
+  },
+  {
+    "keys": [
+      "二相乐园"
+    ],
+    "content": "姬子的故乡，一个列车坠落后再度启航的世界。",
+    "type": "地点",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "二相乐园"
+  },
+  {
+    "keys": [
+      "仙舟罗浮",
+      "罗浮",
+      "仙舟「罗浮」",
+      "仙舟"
+    ],
+    "content": "仙舟联盟的巨舰之一，长生种「仙舟人」的家园。由「将军」景元统领，云骑军负责防卫。主要机构有太卜司、天舶司、工造司、丹鼎司、十王司。曾遭「绝灭大君」幻胧袭击，建木被侵蚀。",
+    "type": "地点",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "仙舟罗浮"
+  },
+  {
+    "keys": [
+      "匹诺康尼",
+      "梦想之地"
+    ],
+    "content": "「家族」掌管的梦境之地，被称为「被糖浆包裹的国度」。现实中的匹诺康尼是同名星球上的监狱废墟，人们通过「美梦」享受永恒的欢愉。领袖是星期日。",
+    "type": "地点",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "匹诺康尼"
+  },
+  {
+    "keys": [
+      "千星城"
+    ],
+    "content": "「公司」（星际和平公司）的重要城市。",
+    "type": "地点",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "千星城"
+  },
+  {
+    "keys": [
+      "磐岩镇"
+    ],
+    "content": "贝洛伯格下层区的小镇，矿工聚居地，环境艰苦。",
+    "type": "地点",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "磐岩镇"
+  },
+  {
+    "keys": [
+      "空间站黑塔",
+      "空间站「黑塔」",
+      "黑塔空间站"
+    ],
+    "content": "天才俱乐部#83成员「黑塔」拥有的空间站，用于收藏奇物与进行实验。开拓者与三月七在此被星核猎手袭击，随后登上星穹列车。",
+    "type": "地点",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "空间站黑塔"
+  },
+  {
+    "keys": [
+      "翁法罗斯"
+    ],
+    "content": "被「智识」相关力量笼罩的世界，其正身可能是亡佚的帝皇权杖等智识造物。存在「泰坦」与「黄金裔」体系。开拓者以「无名客」身份成为其史诗的一部分。",
+    "type": "地点",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "翁法罗斯"
+  },
+  {
+    "keys": [
+      "贝洛伯格",
+      "贝洛伯格城"
+    ],
+    "content": "雅利洛-Ⅵ上最后的城市，由「大守护者」统治。城市分上下两层区，下层区曾长期被隔离封锁。星核危机解除后，布洛妮娅接任第十九任大守护者，推动上下层区和解。",
+    "type": "地点",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "贝洛伯格"
+  },
+  {
+    "keys": [
+      "雅利洛-Ⅵ",
+      "雅利洛",
+      "雅利洛6",
+      "冰球"
+    ],
+    "content": "被永冬封锁的冰封星球。约七百年前，一颗星核坠落于此，引发的寒潮令整个星球陷入永冬。地表仅剩贝洛伯格一座城市有人居住。",
+    "type": "星球",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "雅利洛-Ⅵ"
+  },
+  {
+    "keys": [
+      "克里珀"
+    ],
+    "content": "执掌「存护」命途的星神，以巨锤筑墙，庇护众生。贝洛伯格受其力量庇护。",
+    "type": "星神",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "克里珀"
+  },
+  {
+    "keys": [
+      "纳努克"
+    ],
+    "content": "执掌「毁灭」命途的星神，播撒星核，意图令宇宙归于终焉。",
+    "type": "星神",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "纳努克"
+  },
+  {
+    "keys": [
+      "命途"
+    ],
+    "content": "星神所执掌的宇宙法则，行者可沿命途获得力量。主要命途：存护、毁灭、巡猎、智识、同谐、虚无、丰饶、欢愉、记忆、开拓。",
+    "type": "概念",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "命途"
+  },
+  {
+    "keys": [
+      "星核",
+      "星核危机"
+    ],
+    "content": "「毁灭」星神纳努克播撒的种子，会侵蚀所在世界，引发灾变。被星核侵蚀的星球最终走向毁灭。星核猎手以猎杀星核为目标。",
+    "type": "概念",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "星核"
+  },
+  {
+    "keys": [
+      "星神"
+    ],
+    "content": "宇宙中的至高存在，各自执掌一种「命途」。已知星神包括：克里珀（存护）、纳努克（毁灭）、岚（巡猎）、博识尊（智识）、希佩（同谐）、IX（虚无）、药师（丰饶）、阿哈（欢愉）、浮黎（记忆）。",
+    "type": "概念",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "星神"
+  },
+  {
+    "keys": [
+      "云骑军"
+    ],
+    "content": "仙舟罗浮的军队，由将军景元统领，负责防卫与巡猎孽物。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "云骑军"
+  },
+  {
+    "keys": [
+      "反物质军团"
+    ],
+    "content": "追随「毁灭」命途的军事组织。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "反物质军团"
+  },
+  {
+    "keys": [
+      "地火",
+      "「地火」"
+    ],
+    "content": "贝洛伯格下层区的反抗组织，由下层区民众组成，反对上层区的封锁政策。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "地火"
+  },
+  {
+    "keys": [
+      "天才俱乐部"
+    ],
+    "content": "由极高智识者组成的团体，成员编号排序。黑塔是#83。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "天才俱乐部"
+  },
+  {
+    "keys": [
+      "家族",
+      "「家族」"
+    ],
+    "content": "掌管匹诺康尼的组织，领袖是星期日，提供「美梦」给访客。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "家族"
+  },
+  {
+    "keys": [
+      "无名客"
+    ],
+    "content": "星穹列车成员的称呼，沿「开拓」命途，使命是探索与开拓未知世界。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "无名客"
+  },
+  {
+    "keys": [
+      "星核猎手"
+    ],
+    "content": "以猎杀星核为目标的组织，成员包括卡芙卡、银狼、刃等。追随「毁灭」命途。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "星核猎手"
+  },
+  {
+    "keys": [
+      "星穹列车",
+      "列车",
+      "列车组"
+    ],
+    "content": "沿「开拓」命途行驶的列车，不依赖星轨也能在星海中穿行。领航员是姬子。车上成员被称为「无名客」，使命是开拓未知的世界。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "星穹列车"
+  },
+  {
+    "keys": [
+      "星际和平公司",
+      "公司"
+    ],
+    "content": "宇宙中的巨型企业，简称「公司」，掌控大量资源与贸易。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "星际和平公司"
+  },
+  {
+    "keys": [
+      "药王秘传"
+    ],
+    "content": "仙舟上的秘密结社，与「丰饶」命途相关。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "药王秘传"
+  },
+  {
+    "keys": [
+      "银鬃铁卫"
+    ],
+    "content": "贝洛伯格的防卫部队，负责守卫城市与维持秩序。",
+    "type": "组织",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "银鬃铁卫"
+  },
+  {
+    "keys": [
+      "三月七",
+      "三月",
+      "小三月"
+    ],
+    "content": "星穹列车成员。曾被冰封在六相冰中，被列车组救起后失去过去的记忆。性格活泼开朗、好奇心强，喜欢拍照记录旅途。用「本姑娘」「咱」自称。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "三月七"
+  },
+  {
+    "keys": [
+      "丹恒"
+    ],
+    "content": "星穹列车成员。沉默寡言的持枪少年，真实身份与仙舟「饮月君」有关。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "丹恒"
+  },
+  {
+    "keys": [
+      "停云"
+    ],
+    "content": "仙舟罗浮的商人，天舶司的接渡使，性格圆滑。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "停云"
+  },
+  {
+    "keys": [
+      "刃"
+    ],
+    "content": "星核猎手成员，不死的剑客。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "刃"
+  },
+  {
+    "keys": [
+      "卡芙卡"
+    ],
+    "content": "星核猎手成员，优雅神秘，曾引导开拓者加入列车。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "卡芙卡"
+  },
+  {
+    "keys": [
+      "可可利亚"
+    ],
+    "content": "贝洛伯格前任大守护者，被星核侵蚀后堕落，最终被击败。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "可可利亚"
+  },
+  {
+    "keys": [
+      "姬子",
+      "姬子姐"
+    ],
+    "content": "星穹列车的领航员，优雅成熟的女性。曾是星际和平公司的科学家，故乡是二相乐园。喜欢喝咖啡。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "姬子"
+  },
+  {
+    "keys": [
+      "布洛妮娅",
+      "布洛妮娅•兰德"
+    ],
+    "content": "贝洛伯格第十九任大守护者，接替被星核侵蚀的可可利亚。致力于推动上下层区和解。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "布洛妮娅"
+  },
+  {
+    "keys": [
+      "希儿"
+    ],
+    "content": "贝洛伯格下层区的地火成员，性格直率冲动，使用镰刀作战。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "希儿"
+  },
+  {
+    "keys": [
+      "帕姆"
+    ],
+    "content": "星穹列车上的吉祥物，一只会说话的兔子玩偶，负责列车上的杂务。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "帕姆"
+  },
+  {
+    "keys": [
+      "幻胧"
+    ],
+    "content": "「绝灭大君」之一，曾袭击仙舟罗浮，侵蚀建木。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "幻胧"
+  },
+  {
+    "keys": [
+      "开拓者",
+      "主角"
+    ],
+    "content": "星穹列车成员，玩家扮演的角色。体内被植入星核，与三月七、丹恒是最亲密的伙伴。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "开拓者"
+  },
+  {
+    "keys": [
+      "彦卿"
+    ],
+    "content": "仙舟罗浮的年轻剑客，景元的弟子。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "彦卿"
+  },
+  {
+    "keys": [
+      "星期日"
+    ],
+    "content": "匹诺康尼「家族」的领袖，被称为「哲学的胎儿」。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "星期日"
+  },
+  {
+    "keys": [
+      "景元"
+    ],
+    "content": "仙舟罗浮的将军，云骑军统领。被称作「乐观将军」。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "景元"
+  },
+  {
+    "keys": [
+      "流萤"
+    ],
+    "content": "匹诺康尼的少女，性格温柔天真，与「虫」有关。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "流萤"
+  },
+  {
+    "keys": [
+      "瓦尔特",
+      "瓦尔特先生",
+      "老杨"
+    ],
+    "content": "星穹列车成员，沉稳的中年男性。前逆熵盟主，拥有操纵重力的能力。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "瓦尔特"
+  },
+  {
+    "keys": [
+      "白露"
+    ],
+    "content": "仙舟罗浮的龙女，丹鼎司的医士，活泼贪吃。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "白露"
+  },
+  {
+    "keys": [
+      "砂金"
+    ],
+    "content": "星际和平公司的高管，赌徒性格，擅长博弈。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "砂金"
+  },
+  {
+    "keys": [
+      "符玄"
+    ],
+    "content": "仙舟罗浮太卜司的太卜，掌管占卜与预知。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "符玄"
+  },
+  {
+    "keys": [
+      "罗刹"
+    ],
+    "content": "神秘的商人，与「丰饶」命途相关。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "罗刹"
+  },
+  {
+    "keys": [
+      "花火"
+    ],
+    "content": "匹诺康尼的神秘少女，性格戏谑，与「欢愉」相关。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "花火"
+  },
+  {
+    "keys": [
+      "银狼"
+    ],
+    "content": "星核猎手成员，天才黑客，喜欢游戏。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "银狼"
+  },
+  {
+    "keys": [
+      "镜流"
+    ],
+    "content": "仙舟的剑术大师，丹恒的师父。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "镜流"
+  },
+  {
+    "keys": [
+      "黄泉"
+    ],
+    "content": "神秘的剑客，与「虚无」命途相关。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "黄泉"
+  },
+  {
+    "keys": [
+      "黑塔"
+    ],
+    "content": "天才俱乐部#83成员，空间站的主人，性格傲慢。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "黑塔"
+  },
+  {
+    "keys": [
+      "黑天鹅"
+    ],
+    "content": "记忆的收藏者，与「记忆」命途相关。",
+    "type": "角色",
+    "enabled": true,
+    "insertion_order": 100,
+    "name": "黑天鹅"
+  }
+]

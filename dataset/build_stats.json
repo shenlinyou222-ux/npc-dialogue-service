@@ -1,0 +1,161 @@
+{
+  "source": {
+    "corpus": "/mnt/c/Users/user/Desktop/ds harness/game_dialogue_corpus_wiki",
+    "by_mission_files": 605,
+    "voice_rows": 118
+  },
+  "params": {
+    "corpus": "/mnt/c/Users/user/Desktop/ds harness/game_dialogue_corpus_wiki",
+    "out": "/mnt/c/Users/user/Desktop/ds harness/march7_dataset_v2",
+    "model": "/home/user/npc-models/MiniCPM5-1B",
+    "target": 1450,
+    "max_merge_lines": 2,
+    "max_pieces_per_run": 3,
+    "val_ratio": 0.05,
+    "min_val": 60,
+    "min_tokens": 8,
+    "max_total_tokens": 400,
+    "single_min_chars": 24,
+    "seed": 20251005
+  },
+  "candidates": {
+    "kept_piece": 2142,
+    "drop_piece": 2165,
+    "kept_piece_continuation": 271,
+    "drop_no_ctx": 23,
+    "drop_piece_overflow": 22
+  },
+  "variant_assign": {
+    "variant_scene_dialogue": 802,
+    "variant_bare_line": 235,
+    "drop_self_repeat": 53,
+    "variant_scene_action": 143,
+    "variant_bare_action": 217
+  },
+  "placeholder_normalized": {
+    "她/他": 29,
+    "他/她": 329,
+    "开拓者先生/小姐": 38,
+    "开拓者小姐/先生": 6
+  },
+  "duplicates_removed": {
+    "exact_pair": 33,
+    "same_mission_same_line": 7
+  },
+  "total_before_split": 1357,
+  "leakage_mission_overlap": 0,
+  "train": {
+    "n": 1289,
+    "n_missions": 198,
+    "assistant_tokens": {
+      "min": 2,
+      "p50": 27,
+      "p90": 45,
+      "max": 88,
+      "mean": 29.0
+    },
+    "assistant_chars": {
+      "min": 3,
+      "p50": 43,
+      "p90": 73,
+      "max": 132,
+      "mean": 46.2
+    },
+    "user_tokens": {
+      "min": 2,
+      "p50": 40,
+      "p90": 83,
+      "max": 171,
+      "mean": 42.3
+    },
+    "variant": {
+      "bare_line": 226,
+      "bare_action": 200,
+      "scene_dialogue": 728,
+      "scene_action": 135
+    },
+    "kind": {
+      "dialogue": 1212,
+      "voice": 77
+    },
+    "channel": {
+      "mission": 1133,
+      "sms": 55,
+      "voice": 77,
+      "choice": 24
+    },
+    "region": {
+      "仙舟「罗浮」": 293,
+      "雅利洛-Ⅵ": 241,
+      "匹诺康尼": 192,
+      "二相乐园": 181,
+      "星穹列车": 100,
+      "翁法罗斯": 94,
+      "": 77,
+      "空间站「黑塔」": 42,
+      "雅利洛-Ⅵ-磐岩镇": 32,
+      "空间站「黑塔」、星穹列车": 13,
+      "空间站「黑塔」-主控舱段": 9,
+      "雅利洛-Ⅵ、星穹列车": 8,
+      "千星城": 7
+    },
+    "assistant_lines": {
+      "2": 890,
+      "1": 399
+    },
+    "synthetic_context": 77
+  },
+  "val": {
+    "n": 68,
+    "n_missions": 9,
+    "assistant_tokens": {
+      "min": 10,
+      "p50": 28,
+      "p90": 46,
+      "max": 67,
+      "mean": 28.3
+    },
+    "assistant_chars": {
+      "min": 15,
+      "p50": 42,
+      "p90": 67,
+      "max": 103,
+      "mean": 44.3
+    },
+    "user_tokens": {
+      "min": 3,
+      "p50": 30,
+      "p90": 78,
+      "max": 129,
+      "mean": 37.9
+    },
+    "variant": {
+      "bare_action": 15,
+      "scene_dialogue": 40,
+      "scene_action": 5,
+      "bare_line": 8
+    },
+    "kind": {
+      "dialogue": 60,
+      "voice": 8
+    },
+    "channel": {
+      "mission": 59,
+      "voice": 8,
+      "sms": 1
+    },
+    "region": {
+      "匹诺康尼": 24,
+      "仙舟「罗浮」": 16,
+      "": 8,
+      "星穹列车": 8,
+      "千星城": 8,
+      "空间站「黑塔」": 4
+    },
+    "assistant_lines": {
+      "2": 36,
+      "1": 32
+    },
+    "synthetic_context": 8
+  }
+}
